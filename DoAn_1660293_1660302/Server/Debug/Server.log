@@ -1,0 +1,54 @@
+﻿  server.cpp
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(71): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(80): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(102): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(114): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(128): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(152): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(212): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(226): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(251): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(310): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(326): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(335): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(343): warning C4018: '<': signed/unsigned mismatch
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(168): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(178): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(191): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(201): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(203): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(230): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(238): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(257): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(269): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(278): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(286): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(297): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(308): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(315): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(330): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(339): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(347): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(141): warning C4101: 'mailbuffer': unreferenced local variable
+d:\learn\nam 2\hk2\mmt\doan\doan_1660293_1660302\server\server.cpp(369): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\8.1\include\um\winsock2.h(1850): note: see declaration of 'inet_addr'
+  Server.vcxproj -> D:\Learn\Nam 2\HK2\MMT\DOAN\DoAn_1660293_1660302\Debug\Server.exe
+  Server.vcxproj -> D:\Learn\Nam 2\HK2\MMT\DOAN\DoAn_1660293_1660302\Debug\Server.pdb (Full PDB)

@@ -1,0 +1,15 @@
+﻿  client.cpp
+client.cpp(17): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: see declaration of 'inet_addr'
+  Function.cpp
+Function.cpp(19): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+Function.cpp(46): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\WinSock2.h(1850): note: see declaration of 'inet_addr'
+  Generating code
+  255 of 277 functions (92.1%) were compiled, the rest were copied from previous compilation.
+    11 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Client.vcxproj -> D:\Learn\Nam 2\HK2\MMT\DOAN\DoAn_1660293_1660302\Release\Client.exe
+  Client.vcxproj -> D:\Learn\Nam 2\HK2\MMT\DOAN\DoAn_1660293_1660302\Release\Client.pdb (Full PDB)
